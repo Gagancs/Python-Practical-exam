@@ -1,6 +1,6 @@
 """
 
-Write a function that finds the sum of the
+1.Write a function that finds the sum of the
 
 a) first n even terms
 
